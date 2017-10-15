@@ -13,7 +13,7 @@ Make caffe with python wrapper. Detailed Instruction below
 
 # Demo
 Open demo.py and change line 29 for running demo with different images.
-Run demo.py
+Run demoplay.py
 
 # Caffe
 
